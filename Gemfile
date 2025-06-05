@@ -19,6 +19,8 @@ gem "jbuilder"
 gem "mysql2"
 gem "net-smtp", "~> 0.5.0"
 
+gem "net-imap"
+gem "net-pop"
 
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
