@@ -359,7 +359,7 @@ DEPENDENCIES
   jbuilder
   kamal
   mysql2
-  net-smtp
+  net-smtp (~> 0.5.0)
   propshaft
   puma (>= 5.0)
   rails (~> 8.0.1)
